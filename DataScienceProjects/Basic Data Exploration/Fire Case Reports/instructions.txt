@@ -8,6 +8,8 @@ Conclusions must be supported by analysis and visualization.
 
 *Indicate the questions and your answers using comments together with the code that supports it.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Description of data
 
 The given data are records of fire cases reported in months of January, February, March, and April from year 2002 until 2009. 
@@ -21,6 +23,8 @@ Column,Column Names,Description of Columns
 4,Number,Number of fire cases reported
 
 Strictly change the column names of the given data set.  Use “Year” for 0, “Month” for 1, “Temperature” for 2, “Place” for 3, and “Number” for 4.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Answer the following questions through EDA (Exploratory Data Analysis)
 

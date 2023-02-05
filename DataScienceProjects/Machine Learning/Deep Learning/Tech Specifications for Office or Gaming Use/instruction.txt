@@ -1,0 +1,25 @@
+
+All necessary data processing must be applied.
+Analysis must be shown through codes.
+All answers must be supported by analysis and must be explained using comments.
+Conclusions must be supported by analysis and visualization.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Answer the following questions through exploratory data analysis. (1pts per each question)
+
+1. What CPU is mostly used in Gaming? 
+
+2. How much gigabyte of RAM is usually used by gamers?
+
+3. What CPU is mostly used in Office works?
+
+4. Provide an additional analysis or question to answer.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Deep Model Development
+
+Prepare the data to be suitable for creating deep learning model. 
+Create a deep learning model with dense layers that will identify whether the specific specs are for gaming or for office. 
+(All data preparations must be performed with the use of programming.)
