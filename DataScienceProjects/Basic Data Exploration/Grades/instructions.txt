@@ -1,0 +1,30 @@
+GENERAL INSTRUCTIONS
+
+All necessary data processing must be applied.
+Analysis must be shown through codes.
+Conclusions must be supported by analysis and visualization.
+
+Description of the data
+
+The given data are recorded grades of students from different subjects such as Physics, Mathematics, English and Literature.
+
+Questions.
+
+1. Which subject do students excel the most? Support your answer with analysis and explanation.
+
+2. How many students are below 87 in both Math and Physics?
+
+(For example student A got 83 in Math and 86 in Physics, this is counted because they are both below 87.
+If student B got 87 in Math and 83 in Physics, don't include.)
+
+3. What is/are the grade/s of the student/s in math who got the highest grade/s in Physics?
+
+4. What is/are the grade/s of the student/s in English who got the lowest grade/s in Math?
+
+5. How can you describe the relationship between Math and English?
+
+Note: Clean the data. Handle Null Values
+
+*Put your conclusions at the bottom part of the EDA ipynb file.
+
+*Indicate the questions and your answers using comments together with the code that supports it.
