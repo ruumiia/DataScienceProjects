@@ -2,7 +2,7 @@
 A repository of my Data Analysis / Science related projects.
 <br /><br />
 <h1> Table of Contents </h1>
-<hr> 
+
 <nav>
 <h3> Basic Data Exploration </h3>
 
