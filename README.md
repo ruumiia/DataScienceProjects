@@ -1,5 +1,5 @@
 <h1> DataScienceProjects </h1>
-A repository of my Data Analysis / Science related projects.
+A repository of my Data Analysis / Science related projects. Datasets for the following are sourced from examples given in my university, my own surveyed information, as well as from online data repositories such as Kaggle.
 <br /><br />
 <h1> Table of Contents </h1>
 
