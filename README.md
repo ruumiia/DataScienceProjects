@@ -33,3 +33,14 @@ A repository of my Data Analysis / Science related projects. Datasets for the fo
 </ul>
 
 </nav>
+
+Template format:
+- Business Problem / Problem Domain
+- Data Source
+- Method/s or Technique/s Applied
+- Technology Applied
+- Exploratory Data Analysis Results and Graphs
+- ML Model 
+- Lesson Learned and Recommendation 
+- Limitations and What could be improved
+- Explore Notebook
