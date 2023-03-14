@@ -66,13 +66,17 @@ Answer the following questions through EDA (Exploratory Data Analysis)
 
 The data source was sourced as a sample dataset from the Data Science Course subject of my university.
 
-Template format:
-- Business Problem / Problem Domain
-- Data Source
-- Method/s or Technique/s Applied
-- Technology Applied
-- Exploratory Data Analysis Results and Graphs
-- ML Model 
-- Lesson Learned and Recommendation 
-- Limitations and What could be improved
-- Explore Notebook
+<h3> Method/s or Technique/s Applied </h3>
+
+<ul>
+  <li>Exploratory Data Analysis</li>
+</ul>
+
+<h3> Technology Applied </h3>
+
+<ul>
+  <li>Python</li>
+</ul>
+
+<h3> Exploratory Data Analysis Results </h3>
+
