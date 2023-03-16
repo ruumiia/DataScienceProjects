@@ -1,7 +1,7 @@
 <h1> DataScienceProjects </h1>
 A repository of my Data Analysis / Science related projects. Datasets for the following are sourced from examples given in my university, my own surveyed information, as well as from online data repositories such as Kaggle.
 <br /><br />
-<h1> Table of Contents </h1>
+<h1 id="table-of-contents"> Table of Contents </h1>
 
 <nav>
 <h3> Basic Data Exploration </h3>
@@ -76,7 +76,25 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <ul>
   <li>Python</li>
+  <li>Jupyter Notebook</li>
 </ul>
 
 <h3> Exploratory Data Analysis Results </h3>
 
+<h3> Q1. Which place has the most numerous cases of fire in general? </h3>
+
+<img src="Q1_1.png" alt="python code for Q1">
+
+<img src="Q1_2.png" alt="Q1 bar graph">
+
+<h3> Analysis </h3>
+
+> Winchester and Spring Valley have attained the highest number of cases during a monthly duration, with Winchester getting 7 cases in March 2002 and April 2004 and Spring Valley getting the same number of cases in March 2009.
+
+> Winchester has the most number of fire cases in the span of 2002 to 2009, with a total number of 50 fire cases. This is followed by Spring Valley with 28 cases, then Porterville with the least amount of 26 cases.
+
+> Winchester has the most number of records on fire cases among the 3 places, with a number of 13, which is followed by Porterville with 10, and then Spring Valley with 9. 
+
+<nav>
+<p><a href="#table-of-contents">Return to Table of Contents</a></p>
+</nav>
