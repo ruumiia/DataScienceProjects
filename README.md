@@ -81,11 +81,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Exploratory Data Analysis Results </h3>
 
-<h3> Q1. Which place has the most numerous cases of fire in general? </h3>
+<p> Q1. Which place has the most numerous cases of fire in general? </p>
 
-<img src="Q1_1.png" alt="python code for Q1">
+<img src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q1_1.png" alt="python code for Q1">
 
-<img src="Q1_2.png" alt="Q1 bar graph">
+<img src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q1_2.png" alt="Q1 bar graph">
 
 <h3> Analysis </h3>
 
