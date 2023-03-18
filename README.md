@@ -83,9 +83,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <p> Q1. Which place has the most numerous cases of fire in general? </p>
 
-<img src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q1_1.png" alt="python code for Q1">
+<div align="center">
 
-<img src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q1_2.png" alt="Q1 bar graph">
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q1_1.png" alt="python code for Q1">
+
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q1_2.png" alt="Q1 bar graph">
+
+</div>
 
 <h3> Analysis </h3>
 
@@ -94,6 +98,16 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 > Winchester has the most number of fire cases in the span of 2002 to 2009, with a total number of 50 fire cases. This is followed by Spring Valley with 28 cases, then Porterville with the least amount of 26 cases.
 
 > Winchester has the most number of records on fire cases among the 3 places, with a number of 13, which is followed by Porterville with 10, and then Spring Valley with 9. 
+
+<br>
+
+<p> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </p>
+
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.png" alt="python code for Q2">
+
+# Analysis
+
+> From the 9 monthly recorded Winchester fire incidents, the average temperature experienced during those months is around 32.83 C.
 
 <nav>
 <p><a href="#table-of-contents">Return to Table of Contents</a></p>
