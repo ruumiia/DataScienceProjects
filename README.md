@@ -7,7 +7,7 @@ A repository of my Data Analysis / Science related projects. Datasets for the fo
 <h3> Basic Data Exploration </h3>
 
 <ul>
-  <li>Fire Case Reports</li>
+  <li><a href="#fire-case">Fire Case Reports</a></li>
   <li>Grades Analysis</li>
 </ul>
 
@@ -36,7 +36,7 @@ A repository of my Data Analysis / Science related projects. Datasets for the fo
 
 <h1> Basic Data Exploration </h1>
 
-<h2> Fire Case Reports </h2>
+<h2 id="fire-case"> Fire Case Reports </h2>
 
 <h3> Business Problem / Problem Domain </h3>
 
@@ -105,9 +105,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.png" alt="python code for Q2">
 
-# Analysis
+<h3> Analysis </h3>
 
 > From the 9 monthly recorded Winchester fire incidents, the average temperature experienced during those months is around 32.83 C.
+
+
 
 <nav>
 <p><a href="#table-of-contents">Return to Table of Contents</a></p>
