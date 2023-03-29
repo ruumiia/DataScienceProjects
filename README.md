@@ -81,7 +81,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Exploratory Data Analysis Results </h3>
 
-<p> Q1. Which place has the most numerous cases of fire in general? </p>
+<h3> Q1. Which place has the most numerous cases of fire in general? </h3>
 
 <div align="center">
 
@@ -101,7 +101,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <br>
 
-<p> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </p>
+<h3> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </h3>
 
 <img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.png" alt="python code for Q2">
 
@@ -109,6 +109,15 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 > From the 9 monthly recorded Winchester fire incidents, the average temperature experienced during those months is around 32.83 C.
 
+<h3> Q3. What is the maximum temperature during January? </h3>
+
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q3_1.png" alt="python code for Q3">
+
+<h3> Analysis </h3>
+
+> The maximum temperature recorded during the month of January can be found in Porterland during January 2007, in which there was a recorded 25.94 C temperature.
+
+<h3> # Q4. Which year/s has/have the most number of cases? </h3>
 
 
 <nav>
