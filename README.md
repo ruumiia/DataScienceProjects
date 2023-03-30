@@ -103,8 +103,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </h3>
 
-<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.p
-ng" alt="python code for Q2">
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.png" alt="python code for Q2">
 
 <h3> Analysis </h3>
 
@@ -118,7 +117,7 @@ ng" alt="python code for Q2">
 
 > The maximum temperature recorded during the month of January can be found in Porterland during January 2007, in which there was a recorded 25.94 C temperature.
 
-<h3> # Q4. Which year/s has/have the most number of cases? </h3>
+<h3> Q4. Which year/s has/have the most number of cases? </h3>
 
 <img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q4_1.png" alt="python code for Q4 - 1">
 
