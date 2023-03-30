@@ -103,7 +103,8 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </h3>
 
-<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.png" alt="python code for Q2">
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q2_1.p
+ng" alt="python code for Q2">
 
 <h3> Analysis </h3>
 
@@ -119,6 +120,15 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> # Q4. Which year/s has/have the most number of cases? </h3>
 
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q4_1.png" alt="python code for Q4 - 1">
+
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q4_2.png" alt="Q4 bar graph">
+
+<img style="padding: 5px;" src="DataScienceProjects\Basic Data Exploration\Fire Case Reports\Q4_3.png" alt="python code for Q4 - 3">
+
+<h3> Analysis </h3>
+
+> The years that have been found to have the most number of fire cases among the three places are during 2002, 2008, and 2009, with a total amount of 15 cases each.
 
 <nav>
 <p><a href="#table-of-contents">Return to Table of Contents</a></p>
