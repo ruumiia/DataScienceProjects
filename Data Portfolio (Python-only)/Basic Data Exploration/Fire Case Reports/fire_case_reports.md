@@ -92,5 +92,5 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 > The years that have been found to have the most number of fire cases among the three places are during 2002, 2008, and 2009, with a total amount of 15 cases each.
 
 <nav>
-<p><a href="README.md">Return to Table of Contents</a></p>
+<p><a href="https://github.com/vergaraac/Data-Portfolio/blob/main/README.md">Return to Table of Contents</a></p>
 </nav>
