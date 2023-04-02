@@ -3,11 +3,13 @@ A repository of my Data Analysis / Science related projects. Datasets for the fo
 <br /><br />
 <h1 id="table-of-contents"> Table of Contents </h1>
 
+<h2>Python Data Projects</h2>
+
 <nav>
 <h3> Basic Data Exploration </h3>
 
 <ul>
-  <li><a href="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\fire_case_reports.md">Fire Case Reports</a></li>
+  <li><a href="Python Data Projects\Basic Data Exploration\Fire Case Reports\fire_case_reports.md">Fire Case Reports</a></li>
   <li>Grades Analysis</li>
 </ul>
 
@@ -32,4 +34,12 @@ A repository of my Data Analysis / Science related projects. Datasets for the fo
 </li>
 </ul>
 
+</nav>
+
+<h2>Spreadsheet Data Analysis Projects</h2>
+<nav>
+<ul>
+  <li>Analysis on Pre-COVID and Post-COVID Travel and Transportation Details of Batangas Province Respondents</li>
+  <li>E-Commerce Book Store Profitability Analysis</li>
+</ul>
 </nav>

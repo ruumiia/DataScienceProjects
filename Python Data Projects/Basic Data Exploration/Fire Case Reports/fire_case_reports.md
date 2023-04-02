@@ -1,6 +1,6 @@
-<h2 id="fire-case"> Fire Case Reports </h2>
+<h1 id="fire-case"> Fire Case Reports </h1>
 
-<h3> Business Problem / Problem Domain </h3>
+<h2> Business Problem / Problem Domain </h2>
 
 The given data are records of fire cases reported in months of January, February, March, and April from year 2002 until 2009. 
 It also includes the temperature recorded from each month when cases occurred and places where fire cases are happen.
@@ -24,11 +24,19 @@ Answer the following questions through EDA (Exploratory Data Analysis)
     <li>Which place has the least case of fire?</li>
 </ul>
 
-<h3> Data Source </h3>
+<h2> Data Source </h2>
 
 The data source was sourced as a sample dataset from the Data Science Course subject of my university.
 
-<h3> Method/s or Technique/s Applied </h3>
+<h2> Data Dictionary </h2>
+<ul>
+  <li><strong>Year</strong> - the year that the fire case occurred</li>
+  <li><strong>Month</strong> - the month of the recorded fire case</li>
+  <li><strong>Temperature</strong> - the temperature recorded when cases occurred, as recorded by month</li>
+  <li><strong>Place</strong> - the area in which the fire case happened</li>
+</ul>
+
+<h2> Method/s or Technique/s Applied </h2>
 
 <ul>
   <li>Exploratory Data Analysis</li>
@@ -41,15 +49,15 @@ The data source was sourced as a sample dataset from the Data Science Course sub
   <li>Jupyter Notebook</li>
 </ul>
 
-<h3> Exploratory Data Analysis Results </h3>
+<h2> Exploratory Data Analysis Results </h2>
 
 <h3> Q1. Which place has the most numerous cases of fire in general? </h3>
 
 <div align="center">
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q1_1.png" alt="python code for Q1">
+<img style="padding: 5px;" src="Q1_1.png" alt="python code for Q1">
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q1_2.png" alt="Q1 bar graph">
+<img style="padding: 5px;" src="Q1_2.png" alt="Q1 bar graph">
 
 </div>
 
@@ -65,7 +73,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </h3>
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q2_1.png" alt="python code for Q2">
+<img style="padding: 5px;" src="Q2_1.png" alt="python code for Q2">
 
 <h3> Analysis </h3>
 
@@ -73,7 +81,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q3. What is the maximum temperature during January? </h3>
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q3_1.png" alt="python code for Q3">
+<img style="padding: 5px;" src="Q3_1.png" alt="python code for Q3">
 
 <h3> Analysis </h3>
 
@@ -81,15 +89,27 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q4. Which year/s has/have the most number of cases? </h3>
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q4_1.png" alt="python code for Q4 - 1">
+<img style="padding: 5px;" src="Q4_1.png" alt="python code for Q4 - 1">
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q4_2.png" alt="Q4 bar graph">
+<img style="padding: 5px;" src="Q4_2.png" alt="Q4 bar graph">
 
-<img style="padding: 5px;" src="Data Portfolio (Python-only)\Basic Data Exploration\Fire Case Reports\Q4_3.png" alt="python code for Q4 - 3">
+<img style="padding: 5px;" src="Q4_3.png" alt="python code for Q4 - 2">
 
 <h3> Analysis </h3>
 
 > The years that have been found to have the most number of fire cases among the three places are during 2002, 2008, and 2009, with a total amount of 15 cases each.
+
+<h3> # Q5. Which month has the least number of cases? </h3>
+
+<img style="padding: 5px;" src="Q5_1.png" alt="python code for Q5 - 1">
+
+<img style="padding: 5px;" src="Q5_2.png" alt="Q5 bar graph">
+
+<img style="padding: 5px;" src="Q5_3.png" alt="python code for Q5 - 2">
+
+<h3> Analysis </h3>
+
+> The month that has the least number of cases recorded among the three places is January, which only has a total of 8 cases overall.
 
 <nav>
 <p><a href="https://github.com/vergaraac/Data-Portfolio/blob/main/README.md">Return to Table of Contents</a></p>
