@@ -89,7 +89,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q3_1.png" alt="python code for Q3">
 
-<div>
+</div>
 
 <h3> Analysis </h3>
 
