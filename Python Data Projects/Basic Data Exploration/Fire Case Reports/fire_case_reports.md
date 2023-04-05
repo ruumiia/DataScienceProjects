@@ -53,11 +53,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q1. Which place has the most numerous cases of fire in general? </h3>
 
-<div>
+<div align="center">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q1_1.png" alt="python code for Q1">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q1_1.png" alt="python code for Q1">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q1_2.png" alt="Q1 bar graph">
+<img style="padding: 5px; margin: 5px auto;" src="figure_images\Q1_2.png" alt="Q1 bar graph">
 
 </div>
 
@@ -73,7 +73,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </h3>
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q2_1.png" alt="python code for Q2">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q2_1.png" alt="python code for Q2">
+
+</div>
 
 <h3> Analysis </h3>
 
@@ -81,7 +85,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q3. What is the maximum temperature during January? </h3>
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q3_1.png" alt="python code for Q3">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q3_1.png" alt="python code for Q3">
+
+<div>
 
 <h3> Analysis </h3>
 
@@ -89,13 +97,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q4. Which year/s has/have the most number of cases? </h3>
 
-<div>
+<div align="center">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q4_1.png" alt="python code for Q4 - 1">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q4_1.png" alt="python code for Q4 - 1">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q4_2.png" alt="Q4 bar graph">
+<img style="padding: 5px; margin: 5px auto;" src="figure_images\Q4_2.png" alt="Q4 bar graph">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q4_3.png" alt="python code for Q4 - 2">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q4_3.png" alt="python code for Q4 - 2">
 
 </div>
 
@@ -105,13 +113,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q5. Which month has the least number of cases? </h3>
 
-<div>
+<div align="center">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q5_1.png" alt="python code for Q5 - 1">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q5_1.png" alt="python code for Q5 - 1">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q5_2.png" alt="Q5 bar graph">
+<img style="padding: 5px; margin: 5px auto;" src="figure_images\Q5_2.png" alt="Q5 bar graph">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q5_3.png" alt="python code for Q5 - 2">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q5_3.png" alt="python code for Q5 - 2">
 
 </div>
 
@@ -121,7 +129,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q6. Which place has the greatest number of cases during April? </h3>
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q6_1.png" alt="python code for Q6">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q6_1.png" alt="python code for Q6">
+
+</div>
 
 <h3> Analysis </h3>
 
@@ -129,7 +141,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q7. What is the least temperature during February of 2002 to 2004? </h3>
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q7_1.png" alt="python code for Q7">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q7_1.png" alt="python code for Q7">
+
+</div>
 
 <h3> Analysis </h3>
 
@@ -137,7 +153,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q8. Which place has the least temperature from 2008 to 2009? </h3>
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q8_1.png" alt="python code for Q8">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q8_1.png" alt="python code for Q8">
+
+</div>
 
 <h3> Analysis </h3>
 
@@ -145,7 +165,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q9. What is the highest temperature from 2003 to 2007? </h3>
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q9_1.png" alt="python code for Q9">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q9_1.png" alt="python code for Q9">
+
+</div>
 
 <h3> Analysis </h3>
 
@@ -153,13 +177,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q10. Which place has the least case of fire? </h3>
 
-<div>
+<div align="center">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q10_1.png" alt="python code for Q10 - 1">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q10_1.png" alt="python code for Q10 - 1">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q10_2.png" alt="Q10 bar graph">
+<img style="padding: 5px; margin: 5px auto;" src="figure_images\Q10_2.png" alt="Q10 bar graph">
 
-<img style="display: block; padding: 5px; margin: 5px auto; max-width: 70%;" src="figure_images\Q10_3.png" alt="python code for Q10 - 2">
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q10_3.png" alt="python code for Q10 - 2">
 
 </div>
 
