@@ -1,4 +1,13 @@
-<h1 id="fire-case"> Fire Case Reports </h1>
+<style type="text/css">
+  img {
+    display: block;
+    padding: 5px; 
+    margin: 5px auto;
+    max-width: 70%;
+  }
+</style>
+
+<h1> Fire Case Reports </h1>
 
 <h2> Business Problem / Problem Domain </h2>
 
@@ -53,11 +62,11 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q1. Which place has the most numerous cases of fire in general? </h3>
 
-<div align="center">
+<div>
 
-<img style="padding: 5px;" src="figure_images\Q1_1.png" alt="python code for Q1">
+<img src="figure_images\Q1_1.png" alt="python code for Q1">
 
-<img style="padding: 5px;" src="figure_images\Q1_2.png" alt="Q1 bar graph">
+<img src="figure_images\Q1_2.png" alt="Q1 bar graph">
 
 </div>
 
@@ -73,7 +82,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q2. What is the average temperature in Winchester when number of cases is higher than 2? </h3>
 
-<img style="padding: 5px;" src="figure_images\Q2_1.png" alt="python code for Q2">
+<img src="figure_images\Q2_1.png" alt="python code for Q2">
 
 <h3> Analysis </h3>
 
@@ -81,7 +90,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q3. What is the maximum temperature during January? </h3>
 
-<img style="padding: 5px;" src="figure_images\Q3_1.png" alt="python code for Q3">
+<img src="figure_images\Q3_1.png" alt="python code for Q3">
 
 <h3> Analysis </h3>
 
@@ -89,13 +98,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q4. Which year/s has/have the most number of cases? </h3>
 
-<div align="center">
+<div>
 
-<img style="padding: 5px;" src="figure_images\Q4_1.png" alt="python code for Q4 - 1">
+<img src="figure_images\Q4_1.png" alt="python code for Q4 - 1">
 
-<img style="padding: 5px;" src="figure_images\Q4_2.png" alt="Q4 bar graph">
+<img src="figure_images\Q4_2.png" alt="Q4 bar graph">
 
-<img style="padding: 5px;" src="figure_images\Q4_3.png" alt="python code for Q4 - 2">
+<img src="figure_images\Q4_3.png" alt="python code for Q4 - 2">
 
 </div>
 
@@ -105,13 +114,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q5. Which month has the least number of cases? </h3>
 
-<div align="center">
+<div>
 
-<img style="padding: 5px;" src="figure_images\Q5_1.png" alt="python code for Q5 - 1">
+<img src="figure_images\Q5_1.png" alt="python code for Q5 - 1">
 
-<img style="padding: 5px;" src="figure_images\Q5_2.png" alt="Q5 bar graph">
+<img src="figure_images\Q5_2.png" alt="Q5 bar graph">
 
-<img style="padding: 5px;" src="figure_images\Q5_3.png" alt="python code for Q5 - 2">
+<img src="figure_images\Q5_3.png" alt="python code for Q5 - 2">
 
 </div>
 
@@ -121,7 +130,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q6. Which place has the greatest number of cases during April? </h3>
 
-<img style="padding: 5px;" src="figure_images\Q6_1.png" alt="python code for Q6">
+<img src="figure_images\Q6_1.png" alt="python code for Q6">
 
 <h3> Analysis </h3>
 
@@ -129,7 +138,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q7. What is the least temperature during February of 2002 to 2004? </h3>
 
-<img style="padding: 5px;" src="figure_images\Q7_1.png" alt="python code for Q7">
+<img src="figure_images\Q7_1.png" alt="python code for Q7">
 
 <h3> Analysis </h3>
 
@@ -137,7 +146,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q8. Which place has the least temperature from 2008 to 2009? </h3>
 
-<img style="padding: 5px;" src="figure_images\Q8_1.png" alt="python code for Q8">
+<img src="figure_images\Q8_1.png" alt="python code for Q8">
 
 <h3> Analysis </h3>
 
@@ -145,7 +154,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q9. What is the highest temperature from 2003 to 2007? </h3>
 
-<img style="padding: 5px;" src="figure_images\Q9_1.png" alt="python code for Q9">
+<img src="figure_images\Q9_1.png" alt="python code for Q9">
 
 <h3> Analysis </h3>
 
@@ -153,13 +162,13 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h3> Q10. Which place has the least case of fire? </h3>
 
-<div align="center">
+<div>
 
-<img style="padding: 5px;" src="figure_images\Q10_1.png" alt="python code for Q10 - 1">
+<img src="figure_images\Q10_1.png" alt="python code for Q10 - 1">
 
-<img style="padding: 5px;" src="figure_images\Q10_2.png" alt="Q10 bar graph">
+<img src="figure_images\Q10_2.png" alt="Q10 bar graph">
 
-<img style="padding: 5px;" src="figure_images\Q10_3.png" alt="python code for Q10 - 2">
+<img src="figure_images\Q10_3.png" alt="python code for Q10 - 2">
 
 </div>
 
@@ -169,7 +178,15 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <h2> Conclusion </h2>
 
-In this data analysis, the fire incident situations of three places, which are Porterville, Spring Valley, and Winchester, were inspected. Based from analyses on the temperature values recorded from these places, Winchester has seen to be prominent across the given timeframes in terms of recording the highest temperature value, which supports the highest number of fire cases that is also discovered from the the place. Alongside this, Porterville is the complete opposite of Winchester's results, having the least temperature value recorded as well as the least amount of fire cases recorded. Aside from this, the month of January is also the coolest month for these three places, while April can be considered the hottest month. With such conclusions, fire action should be provided the most on Winchester, especially during the month of April, due to the level of temperature and amount of fire cases found from the records of the area.
+In this data analysis, the fire incident situations of three places, which are Porterville, Spring Valley, and Winchester, were inspected. 
+
+Based from analyses on the temperature values recorded from these places, Winchester has seen to be prominent across the given timeframes in terms of recording the highest temperature value, which supports the highest number of fire cases that is also discovered from the the place. 
+
+Alongside this, Porterville is the complete opposite of Winchester's results, having the least temperature value recorded as well as the least amount of fire cases recorded. 
+
+Aside from this, the month of January is also the coolest month for these three places, while April can be considered the hottest month. 
+
+With such conclusions, fire action should be provided the most on Winchester, especially during the month of April, due to the level of temperature and amount of fire cases found from the records of the area.
 
 <nav>
 <p><a href="https://github.com/vergaraac/Data-Portfolio/blob/main/README.md">Return to Table of Contents</a></p>
