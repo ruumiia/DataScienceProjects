@@ -204,5 +204,5 @@ Aside from this, the month of January is also the coolest month for these three 
 With such conclusions, fire action should be provided the most on Winchester, especially during the month of April, due to the level of temperature and amount of fire cases found from the records of the area.
 
 <nav>
-<p><a href="https://github.com/vergaraac/Data-Portfolio/blob/main/README.md">Return to Table of Contents</a></p>
+<p><a href="https://github.com/vergaraac/Data-Portfolio">Return to Main Page / Table of Contents</a></p>
 </nav>
