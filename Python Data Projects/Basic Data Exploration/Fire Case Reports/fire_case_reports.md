@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
   img {
     display: block;
     padding: 5px; 
