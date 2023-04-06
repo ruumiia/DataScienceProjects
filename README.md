@@ -1,5 +1,5 @@
 <h1> Data Portfolio </h1>
-A repository of my Data Analysis / Science related projects. Datasets for the following are sourced from examples given in my university, my own surveyed information, as well as from online data repositories such as Kaggle.
+A repository of my data analysis / data science projects, alongside quantitative and qualitative research papers featuring statistical and open coding analysis. Datasets for the outputs are sourced from samples given in my university, personally surveyed information, and online data repositories such as Kaggle.
 <br /><br />
 <h1 id="table-of-contents"> Table of Contents </h1>
 
