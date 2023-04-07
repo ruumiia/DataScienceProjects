@@ -147,7 +147,7 @@ The model also attained mean squared error value of 1.707, which is satisfactory
 
 <div align="center">
 
-<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\correlation_heatmap.png" alt="correlation heatmap">
+<img style="padding: 5px; margin: 15px auto;" width="70%" src="figure_images\correlation_heatmap.png" alt="correlation heatmap">
 
 </div>
 
