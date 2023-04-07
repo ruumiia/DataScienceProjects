@@ -1,4 +1,4 @@
-<h1 id="fire-case"> Grades Analysis </h1>
+<h1> Grades Analysis </h1>
 
 <h2> Business Problem / Problem Domain </h2>
 
