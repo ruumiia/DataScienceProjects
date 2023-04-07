@@ -93,7 +93,7 @@ The formula for this equation is:
 
 $y=\beta_0+\beta_1X_1+...+\beta_nX_n$
 
-where $y$ is the dependent variable, $X$ are the independent variables, $\beta_n$ is the slope coefficient of the line, and $\Beta_0$ is the intercept coefficient. The linear component of the formula $(\beta_0+\beta_1X_1+...+\beta_nX_n)$ extends as the number of independent variables used for the model increase. For this method, we attempted up to four-variable iterations to see which gives the best r-squared score as well as the lowest mean squared error value. The following are the iterations:
+where $y$ is the dependent variable, $X$ are the independent variables, $\beta_n$ is the slope coefficient of the line, and $\beta_0$ is the intercept coefficient. The linear component of the formula $(\beta_0+\beta_1X_1+...+\beta_nX_n)$ extends as the number of independent variables used for the model increase. For this method, we attempted up to four-variable iterations to see which gives the best r-squared score as well as the lowest mean squared error value. The following are the iterations:
 
 One-Variable Iteration: $y = \beta_0 + \beta_1X_1$
 | $y$ regressed only on: | Device Use | Playtime | No. of Games | **Schoolwork time** | Meals | Outside | Social Media | Exercise |
@@ -142,6 +142,55 @@ The model also attained mean squared error value of 1.707, which is satisfactory
 <img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\plot_actual_vs_predicted.png" alt="actual vs predicted values">
 
 </div>
+
+<h2> Interpretation and Discussion of the Result </h2>
+
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\correlation_heatmap.png" alt="correlation heatmap">
+
+</div>
+
+In performing the EDA for the dataset, the following heatmap is formed. From such, the analysis and interpretation determined from the data are the following:
+
+> In terms of positive correlation, device use time and schoolwork time provide the highest values in relation to the grade, with a positive weak correlation of 0.31 with device use and a positive weak correlation of 0.21 with schoolwork time. The two variables are also positively weakly correlated with each other, with 0.34.
+
+> In terms of negative correlation, time spent outside and exercising provide the highest values in relation to grade, with a negative moderate correlation of -0.44 with time outside and negative weak correlation of -0.36 with time spent exercising. The two variables are in a positively moderate correlation with each other, with a value of 0.43.
+
+> Playtime, No. of games, Meals, and social media have very weak correlation towards grades but have some fairly weak to moderate correlation to device use time, schoolwork time, outside time, and exercise time, causing an indirect relationship with grades.
+
+> Forward selection method in variable selection for the ML model resulted in selection of schoolwork time, no. of games, and playtime as the chosen regressor variables. This results to an r-squared score of 0.403 and a mean squared error value of 1.707. An r-squared value of 50% or less is usually the result of a studies attempting to predict human behavior. 
+
+> Slope values for schoolwork time, no. of games, and playtime are 0.22208662, -0.37271045, and 0.0419289, while the intercept value is 91.36377937438614.
+
+The community questions were also addressed with the findings from the EDA, which are the following:
+
+1. Is there a better way to delegate my time wisely [to improve my overall grade performance]?
+> Considering the EDA results, the best way to delegate one's time to maximize their overall grade performance is striking a balance between increasing device use and schoolwork time and outside and exercise time, due to their direct and inverse relationship with grade. Students who spend more time doing schoolworks and using their devices should consider doing outdoor and exercise activities more, and vice versa. This data proves that a quality life-work balance is needed to improve performance.
+
+2. How significant is the relationship between social media hours andone's overall average grades?
+> The relationship has a very weak positive correlation hinting to only a minimal direct increase of overall grades from the hours spent in social media.
+
+3. How high is the correlation between hours spent playing video gamesto average grade compared to the correlation between hours spent insocial media and average grade?
+> The correlation between game playtime and overall grade is a negligible negative one compared to the positive very weak correlation that social media and grades have. However, social media has a higher value of correlation of 0.16 compared to playtime's 0.0079, making it more influential compared to playtime, albeit in a very weak degree.
+
+4. Is there a relationship between time spent with games with performance in grades?
+> It has a negligible inverse correlation, which means it has a very minimal connection with increasing grade performance as the playtime value goes down.
+
+5. Which factor is highest/that influences the most when it comes to overall average grades of a student?
+> In terms of a direct correlation with the grades, device use has the highest positive influence. This could be attributed to how schoolworks are performed through online methodologies, leading to higher device use. This also contributed to making time spent on schoolworks the 2nd highest positive influence to grades. In terms of an inverse correlation, time spent outside has the highest negative influence. This could be that the more time spent outside, the less time to be focused on school related lifestyle, leading to a lower grade performance. This also contributes to making time spent on exercise the 2nd highest inverse relationship, as spending time outside could also be for exercising outdoor, although it could also be done indoors.
+
+<h2> Conclusions </h2>
+
+With the following results, it is concluded that device use, schoolwork, outside, and exercise time have a significant relationship towards influencing overall grade performance, in terms of individual correlation with the grade variable. 
+
+Increasing the device use and schoolwork time can help increase grade performance of students in a weak to moderate level. Decreasing time spent outside and exercising can also increase grade performance to a moderate level. 
+
+However, it should also be pointed out that balancing these variables are also important in ensuring a high-grade performance. In terms of building the model, the variables of schoolwork time, no. of games playing, and total play time contributes to the highest possible r-squared value and lowest mean squared error value through the forward selection method. 
+
+It should also be pointed out that the results of this study can be further improved through getting a higher number of respondents and to make the data gathering method wider and more randomized to minimize selection bias. 
+
+Doing such could also improve the correlation in the heatmap as well as make the model more fit into a generalized data set, making it better overall.
 
 <nav>
 <p><a href="https://github.com/vergaraac/Data-Portfolio">Return to Main Page / Table of Contents</a></p>
