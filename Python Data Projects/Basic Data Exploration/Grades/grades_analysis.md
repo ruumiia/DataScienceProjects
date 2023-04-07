@@ -50,9 +50,9 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <div align="center"> 
 
-<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q1_1.png" alt="python code for Q1 - 1">
+<img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\Q1_1.png" alt="python code for Q1 - 1">
 
-<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q1_2.png" alt="python code for Q1 - 2">
+<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\Q1_2.png" alt="python code for Q1 - 2">
 
 </div>
 
@@ -70,7 +70,7 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <div align="center">
 
-<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q2_1.png" alt="python code for Q2">
+<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\Q2_1.png" alt="python code for Q2">
 
 </div>
 
@@ -106,9 +106,9 @@ The data source was sourced as a sample dataset from the Data Science Course sub
 
 <div align="center"> 
 
-<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q5_1.png" alt="Q5 scatter plot - 1">
+<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\Q5_1.png" alt="Q5 scatter plot - 1">
 
-<img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\Q5_2.png" alt="Q5 scatter plot - 2">
+<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\Q5_2.png" alt="Q5 scatter plot - 2">
 
 </div>
 
