@@ -1,5 +1,7 @@
 <h1> Multiple Linear Regression Analysis on DLSL College Students’ Current Lifestyle Choices towards their Overall Grade Performance </h1>
 
+<img style="padding: 5px; margin: 5px auto;" width="100%" src="figure_images\mabini_bldg.png" alt="DLSL">
+
 <h2> Background </h2>
 
 The recent pandemic situation caused a significant impact towards every DLSL student’s lifestyle, resulting to changes in daily habits and routines over the previous lifestyle that was tied to their student life. This abrupt change caused students to partition their daily activities in various ways and timelines to fit their current study at home and quarantine situation. 
@@ -89,9 +91,9 @@ To identify this, the model will be using the r-squared value of the regression.
 
 The formula for this equation is: 
 
-$y=\beta_0+\beta_1X_1+...+\Beta_nX_n$
+$y=\beta_0+\beta_1X_1+...+\beta_nX_n$
 
-where $y$ is the dependent variable, $X$ are the independent variables, $\Beta_n$ is the slope coefficient of the line, and $\Beta_0$ is the intercept coefficient. The linear component of the formula $(\beta_0+\beta_1X_1+...+\Beta_nX_n)$ extends as the number of independent variables used for the model increase. For this method, we attempted up to four-variable iterations to see which gives the best r-squared score as well as the lowest mean squared error value. The following are the iterations:
+where $y$ is the dependent variable, $X$ are the independent variables, $\beta_n$ is the slope coefficient of the line, and $\Beta_0$ is the intercept coefficient. The linear component of the formula $(\beta_0+\beta_1X_1+...+\beta_nX_n)$ extends as the number of independent variables used for the model increase. For this method, we attempted up to four-variable iterations to see which gives the best r-squared score as well as the lowest mean squared error value. The following are the iterations:
 
 One-Variable Iteration: $y = \beta_0 + \beta_1X_1$
 | $y$ regressed only on: | Device Use | Playtime | No. of Games | **Schoolwork time** | Meals | Outside | Social Media | Exercise |
@@ -100,21 +102,21 @@ One-Variable Iteration: $y = \beta_0 + \beta_1X_1$
 
 Highest $r^2$: Schoolwork time (0.407)
 
-Two-Variable Iteration: $y = \beta_0 + \beta_1(Schoolwork time) + \beta_2X_2$
+Two-Variable Iteration: $y = \beta_0 + \beta_1(Schoolwork\:time) + \beta_2X_2$
 | $y$ regressed on Schoolwork time and: | Device Use | **Playtime** | No. of Games | Meals | Outside | Social Media | Exercise |
 |-------------------------------|------------|----------|--------------|-----------------|-----------|--------------|----------|
 | $r^2$                         | -0.176      | **0.388**    | 0.350        | 0.248           | -0.324 | 0.214        | -0.052    |
 
 Highest $r^2$: Schoolwork time + Playtime (0.388)
 
-Three-Variable Iteration: $y = \beta_0 + \beta_1(Schoolwork time) + \beta_2(Playtime) + \beta_3X_3$
+Three-Variable Iteration: $y = \beta_0 + \beta_1(Schoolwork\:time) + \beta_2(Playtime) + \beta_3X_3$
 | $y$ regressed on Schoolwork time, Playtime, and: | Device Use | **No. of Games** | Meals | Outside | Social Media | Exercise |
 |---------------------------------------|----------------|----------|--------------|-----------------|--------------|----------|
 | $r^2$                                 | -0.356      | **0.403**    | 0.088       | -0.428           | 0.172        | -0.060    |
 
 Highest $r^2$: Schoolwork time + Playtime + No. of Games (0.403)
 
-Four-Variable Iteration: $y = \beta_0 + \beta_1(Schoolwork time) + \beta_2(Playtime) + \beta_3(No. of Games) + \beta_4X_4$
+Four-Variable Iteration: $y = \beta_0 + \beta_1(Schoolwork\:time) + \beta_2(Playtime) + \beta_3(No.\:of\:Games) + \beta_4X_4$
 | $y$ regressed on Schoolwork time, Playtime, No. of Games, and: | Device Use | Meals | Outside | **Social Media** | Exercise |
 |---------------------------------------------------|----------|--------------|-----------------|------------------|----------|
 | $r^2$                                             | -0.159    | -0.004        | -0.494           | **0.277**        | -0.143    |
@@ -123,9 +125,7 @@ Highest $r^2$: Schoolwork time + Playtime + No. of Games + Social Media (0.277)
 
 Final Equation:
 
-$y = \beta_0 + \beta_1(Schoolwork time) + \beta_2(Playtime) + \beta_3(No. of Games) + \beta_4(Social Media)$
-
-Looking at the following iterations, the model can have the best r-squared value if we have a three-variable model, using schoolwork time, playtime, and number of games as our independent variables to predict the grade. 
+$y = \beta_0 + \beta_1(Schoolwork\:time) + \beta_2(Playtime) + \beta_3(No.\:of\:Games) + \beta_4(Social\:Media)$
 
 Looking at the following iterations, the model can have the best r-squared value if we have a three-variable model, using schoolwork time, playtime, and number of games as our independent variables to predict the grade. 
 
@@ -135,9 +135,13 @@ The model performance displayed an r-squared score of 0.403, which can be consid
 
 The model also attained mean squared error value of 1.707, which is satisfactory enough in predicting a value such as a student’s grade performance. The following figures below shows the actual vs prediction values using the model.
 
-<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\actual_vs_predicted.png" alt="actual vs predicted values">
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\actual_vs_predicted.png" alt="actual vs predicted values">
 
 <img style="padding: 5px; margin: 5px auto;" width="70%" src="figure_images\plot_actual_vs_predicted.png" alt="actual vs predicted values">
+
+</div>
 
 <nav>
 <p><a href="https://github.com/vergaraac/Data-Portfolio">Return to Main Page / Table of Contents</a></p>
