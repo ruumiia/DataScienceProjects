@@ -10,7 +10,7 @@ A repository of my data analysis / data science projects, alongside quantitative
 
 <ul>
   <li><a href="Python Data Projects\Basic Data Exploration\Fire Case Reports\fire_case_reports.md">Fire Case Reports</a></li>
-  <li><a href="Python Data Projects\Basic Data Exploration\Fire Case Reports\grades_analysis.md">Grades Analysis</a></li>
+  <li><a href="Python Data Projects\Basic Data Exploration\Grades\grades_analysis.md">Grades Analysis</a></li>
 </ul>
 
 <h3> EDA with Machine Learning / Deep Learning </h3>
