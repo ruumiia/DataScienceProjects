@@ -1,5 +1,5 @@
 <h1> Data Portfolio </h1>
-A repository of my Data Analysis / Science related projects. Datasets for the following are sourced from examples given in my university, my own surveyed information, as well as from online data repositories such as Kaggle.
+A repository of my data analysis / data science projects, alongside quantitative and qualitative research papers featuring statistical and open coding analysis. Datasets for the outputs are sourced from samples given in my university, personally surveyed information, and online data repositories such as Kaggle.
 <br /><br />
 <h1 id="table-of-contents"> Table of Contents </h1>
 
@@ -10,7 +10,7 @@ A repository of my Data Analysis / Science related projects. Datasets for the fo
 
 <ul>
   <li><a href="Python Data Projects\Basic Data Exploration\Fire Case Reports\fire_case_reports.md">Fire Case Reports</a></li>
-  <li>Grades Analysis</li>
+  <li><a href="Python Data Projects\Basic Data Exploration\Fire Case Reports\grades_analysis.md">Grades Analysis</a></li>
 </ul>
 
 <h3> EDA with Machine Learning / Deep Learning </h3>
