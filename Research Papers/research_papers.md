@@ -2,7 +2,6 @@
 
 The following are research papers / tasks during my senior high school to university years, which I served as the research lead. The following documents utilized quantitative, qualitative, and mixed-method approaches in its data gathering and analysis methodologies to achieve its results and conclusions. 
 
-<br/>
 <hr>
 
 <h2> Chatbot Development Documentation </h2>
