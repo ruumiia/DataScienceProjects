@@ -1,6 +1,6 @@
 <h1> Research Paper Projects </h1>
 
-The following are research papers / tasks during my senior high school to university years, which I served as the research lead. The following documents utilized quantitative, qualitative, and mixed-method approaches in its data gathering and analysis methodologies to achieve its results and conclusions. 
+The following are research papers / tasks during my senior high school to university years, which I served as the research lead. The following research endeavors utilized quantitative, qualitative, and mixed-method approaches as part of the data gathering methodology and analysis process to achieve results and conclusions. 
 
 <hr>
 
