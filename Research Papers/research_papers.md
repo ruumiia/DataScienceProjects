@@ -1,8 +1,8 @@
 <h1> Research Paper Projects </h1>
 
-The following are research papers / tasks during my Senior High School to University years, which I served as the research lead. 
+The following are research papers / tasks during my senior hHigh School to University years, which I served as the research lead. The following documents utilized quantitative, qualitative, and mixed-method approaches in its data gathering and analysis methodologies to achieve its results and conclusions. 
 
-<br/><br/>
+<br/>
 
 <h2> Chatbot Development Documentation </h2>
 
@@ -14,6 +14,13 @@ This is the manuscript paper made detailing the development process and the resu
 De La Salle Lipa using Expert System and Natural Language
 Processing Techniques” </strong> </h3>
 
+Project Members:
+<ul>
+  <li><a href="https://github.com/zrta2480">zrta2480</a> - Database Management, Custom Action Developer </li>
+  <li><a href="https://github.com/pangilinan-patrick">pangilinan-patrick</a>- Web Developer, UI/UX Designer </li>
+  <li><a href="https://github.com/sanjaysajnani">sanjaysajnani</a> - Research and Conversational Flow Assistant, Logistics and Data Gathering </li>
+  <li><a href="https://github.com/vergaraac">vergaraac</a> - Team Leader, Project Manager, Research Lead, Conversational Flow / NLP Developer </li>
+</ul>
 <h3> Abstract </h3>
 
 >The thesis focuses on the development and implementation of a
@@ -22,7 +29,7 @@ methodology, in which development was performed in iterations and divided into t
 
 Source: <a href="Chatbot_Thesis_Manuscript.pdf"> Chatbot_Thesis_Manuscript </a>
 
-<br/><br/>
+<br/>
 
 <h2> Local Waste Management / Layered Decomposer Papers </h2>
 
@@ -50,13 +57,11 @@ Source: <a href="1_Waste_Management_Analysis.pdf"> 1_Waste_Management_Analysis <
 
 Source: <a href="2_InnovativeNexusWay_IMRAD.pdf"> 2_InnovativeNexusWay_IMRAD </a>
 
-<br/><br/>
+<br/>
 
 <h2> Other Papers </h2>
 
 This section presents minor researches performed to accomplish academic requirements.
-
-<br/>
 
 <h3><strong>A quantitative study exploring DLSL college students’
 overall online learning experience and their perceptions
@@ -72,6 +77,8 @@ statistics from administered online survey questionnaires were analyzed through 
 and above average perceptions on provided AI-based education services, suggesting that education services using AI concepts could be applied to improve students’ online learning experiences.
 
 Source: <a href="AI_College_Perceptions_Research.pdf"> AI_College_Perceptions_Research </a>
+
+<br/>
 
 <nav>
 <p><a href="https://github.com/vergaraac/Data-Portfolio">Return to Main Page / Table of Contents</a></p>
