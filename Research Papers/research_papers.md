@@ -1,6 +1,6 @@
 <h1> Research Paper Projects </h1>
 
-The following are research papers / tasks during my senior hHigh School to University years, which I served as the research lead. The following documents utilized quantitative, qualitative, and mixed-method approaches in its data gathering and analysis methodologies to achieve its results and conclusions. 
+The following are research papers / tasks during my senior high school to university years, which I served as the research lead. The following documents utilized quantitative, qualitative, and mixed-method approaches in its data gathering and analysis methodologies to achieve its results and conclusions. 
 
 <br/>
 
@@ -19,7 +19,7 @@ Project Members:
   <li><a href="https://github.com/zrta2480">zrta2480</a> - Database Management, Custom Action Developer </li>
   <li><a href="https://github.com/pangilinan-patrick">pangilinan-patrick</a>- Web Developer, UI/UX Designer </li>
   <li><a href="https://github.com/sanjaysajnani">sanjaysajnani</a> - Research and Conversational Flow Assistant, Logistics and Data Gathering </li>
-  <li><a href="https://github.com/vergaraac">vergaraac</a> - Team Leader, Project Manager, Research Lead, Conversational Flow / NLP Developer </li>
+  <li><a href="https://github.com/vergaraac">vergaraac</a> - Team Leader, Project Manager, Research and Analytics Lead, Conversational Flow / NLP Developer </li>
 </ul>
 <h3> Abstract </h3>
 
