@@ -14,7 +14,7 @@ This is the manuscript paper made detailing the development process and the resu
 De La Salle Lipa using Expert System and Natural Language
 Processing Techniques” </strong> </h3>
 
-Project Members:
+<strong>Project Members:</strong>
 <ul>
   <li><a href="https://github.com/zrta2480">zrta2480</a> - Database Management, Custom Action Developer </li>
   <li><a href="https://github.com/pangilinan-patrick">pangilinan-patrick</a>- Web Developer, UI/UX Designer </li>
@@ -63,10 +63,9 @@ Source: <a href="2_InnovativeNexusWay_IMRAD.pdf"> 2_InnovativeNexusWay_IMRAD </a
 
 This section presents minor researches performed to accomplish academic requirements.
 
-<h3><strong>A quantitative study exploring DLSL college students’
-overall online learning experience and their perceptions
-on different AI-applied learning services
-for quarantined education</strong></h3>
+<img style="padding: 5px; margin: 5px auto;" width="100%" src="figure_images\AI_college_tools.png" alt="AI college learning">
+
+<h3><strong>A quantitative study exploring DLSL college students’ overall online learning experience and their perceptions on different AI-applied learning services for quarantined education</strong></h3>
 
 <h3> Abstract </h3>
 
