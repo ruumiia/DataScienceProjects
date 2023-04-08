@@ -2,13 +2,19 @@
 
 The following are research papers / tasks during my Senior High School to University years, which I served as the research lead. 
 
+<br/><br/>
+
 <h2> Chatbot Development Documentation </h2>
 
 This is the manuscript paper made detailing the development process and the results of software test cases and user acceptances test with the thesis project "MyDBuddy Chatbot".
 
+<br/>
+
 <h3><strong> An AI Chatbot System for Tech Support in the MyDCampus Website of
 De La Salle Lipa using Expert System and Natural Language
 Processing Techniques” </strong> </h3>
+
+<br/>
 
 <h3> Abstract </h3>
 
@@ -18,11 +24,17 @@ methodology, in which development was performed in iterations and divided into t
 
 Source: <a href="Research Papers\Chatbot_Thesis_Manuscript.pdf"> Chatbot_Thesis_Manuscript </a>
 
+<br/><br/>
+
 <h2> Local Waste Management / Layered Decomposer Papers </h2>
 
-These are research papers that I have made and led in my two years of Senior High School
+These are research papers that I have led in my two years of Senior High School as the team lead of logistics and research committees. The papers focuses on the CAPSTONE project that we have performed on local waste management.
+
+<br/>
 
 <h3><strong> Waste Management System of the Residents of Brgy. Mojon-Tampoy: An Analysis </strong></h3>
+
+<br/>
 
 <h3> Abstract </h3>
 
@@ -32,7 +44,11 @@ Source: <a href="Research Papers\1_Waste_Management_Analysis.pdf"> 1_Waste_Manag
 
 <hr>
 
+<br/>
+
 <h3><strong> An Innovative Composting Optimization Through the Nexus Way: A Mixed-Method Approach </strong></h3>
+
+<br/>
 
 <h3> Abstract </h3>
 
@@ -40,14 +56,20 @@ Source: <a href="Research Papers\1_Waste_Management_Analysis.pdf"> 1_Waste_Manag
 
 Source: <a href="Research Papers\2_InnovativeNexusWay_IMRAD.pdf"> 2_InnovativeNexusWay_IMRAD </a>
 
+<br/><br/>
+
 <h2> Other Papers </h2>
 
 This section presents minor researches performed to accomplish academic requirements.
+
+<br/>
 
 <h3><strong>A quantitative study exploring DLSL college students’
 overall online learning experience and their perceptions
 on different AI-applied learning services
 for quarantined education</strong></h3>
+
+<br/>
 
 <h3> Abstract </h3>
 
