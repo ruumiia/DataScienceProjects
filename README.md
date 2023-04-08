@@ -43,3 +43,10 @@ A repository of my data analysis / data science projects, alongside quantitative
   <li>E-Commerce Book Store Profitability Analysis</li>
 </ul>
 </nav>
+
+<h2>Research Papers</h2>
+<nav>
+<ul>
+  <li><a href="Research Papers\research_papers.md"> Documentation / Descriptions </a></li>
+</ul>
+</nav>
