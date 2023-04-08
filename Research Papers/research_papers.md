@@ -88,7 +88,14 @@ the Condition of Nonhospitalized and Remotely Quarantined Patients </strong></h3
 
 <h3> Description </h3>
 
-> This study is a recommendation paper towards addressing the serious concerns with inadequate healthcare resources and facilities in the Philippines due to the widespread COVID-19 pandemic. This study proposes the incorporation of a wearable IOT solution that would allow monitoring of patients, which can be implemented for individuals who are not hospitalized and being isolated through their homes. This would ensure that immediate help is provided when needed despite not being hospitalized themselves, which would allow local hospital resources to not be overloaded and be used for those in critical need.
+> This study is a recommendation paper towards addressing the evident lack of hospital and human health resources to fairly accommodate every COVID-19 patient in the Philippines. Due to lack of hospital accommodations, patients are forced to be remotely quarantined in their
+homes, with no appropriate medical professional monitoring. There is also a likely delay in immediate emergency response for self-quarantined individuals due to lack of professional monitoring, leading to higher health risks.
+
+>This study proposes the incorporation of a wearable IOT solution that would allow monitoring of patients, which can be implemented for individuals who are not hospitalized and being isolated in their homes. This aims to: (1) Maintain a sustainable healthcare environment among hospitals
+through making home quarantine a more viable and supported option for medical professionals, (2) improve monitoring capabilities of health professionals towards
+individuals undergoing remote quarantine within their private homes or spaces, and (3) provide accessibility for immediate healthcare response for emergency cases among self-quarantined individuals.
+
+Source: <a href="COVID_Recommendation_Study.pdf"> COVID_Recommendation_Study </a>
 
 <br/>
 
