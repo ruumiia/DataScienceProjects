@@ -3,6 +3,7 @@
 The following are research papers / tasks during my senior high school to university years, which I served as the research lead. The following documents utilized quantitative, qualitative, and mixed-method approaches in its data gathering and analysis methodologies to achieve its results and conclusions. 
 
 <br/>
+<hr>
 
 <h2> Chatbot Development Documentation </h2>
 
@@ -17,7 +18,7 @@ Processing Techniques” </strong> </h3>
 <strong>Project Members:</strong>
 <ul>
   <li><a href="https://github.com/zrta2480">zrta2480</a> - Database Management, Custom Action Developer </li>
-  <li><a href="https://github.com/pangilinan-patrick">pangilinan-patrick</a>- Web Developer, UI/UX Designer </li>
+  <li><a href="https://github.com/pangilinan-patrick">pangilinan-patrick</a>- Front-end Developer, UI/UX Designer </li>
   <li><a href="https://github.com/sanjaysajnani">sanjaysajnani</a> - Research and Conversational Flow Assistant, Logistics and Data Gathering </li>
   <li><a href="https://github.com/vergaraac">vergaraac</a> - Team Leader, Project Manager, Research and Analytics Lead, Conversational Flow / NLP Developer </li>
 </ul>
@@ -76,6 +77,18 @@ statistics from administered online survey questionnaires were analyzed through 
 and above average perceptions on provided AI-based education services, suggesting that education services using AI concepts could be applied to improve students’ online learning experiences.
 
 Source: <a href="AI_College_Perceptions_Research.pdf"> AI_College_Perceptions_Research </a>
+
+<hr>
+
+<img style="padding: 5px; margin: 5px auto;" width="100%" src="figure_images\wearable_iot_covid.jpg" alt="IOT wearable COVID">
+
+<h3><strong> A Mixed-method Recommendation Study:
+Wearable IoT based COVID-19 Device to Monitor
+the Condition of Nonhospitalized and Remotely Quarantined Patients </strong></h3>
+
+<h3> Description </h3>
+
+> This study is a recommendation paper towards addressing the serious concerns with inadequate healthcare resources and facilities in the Philippines due to the widespread COVID-19 pandemic. This study proposes the incorporation of a wearable IOT solution that would allow monitoring of patients, which can be implemented for individuals who are not hospitalized and being isolated through their homes. This would ensure that immediate help is provided when needed despite not being hospitalized themselves, which would allow local hospital resources to not be overloaded and be used for those in critical need.
 
 <br/>
 
