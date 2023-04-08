@@ -8,7 +8,7 @@ The following are research papers / tasks during my Senior High School to Univer
 
 This is the manuscript paper made detailing the development process and the results of software test cases and user acceptances test with the thesis project "MyDBuddy Chatbot".
 
-<br/>
+<img style="padding: 5px; margin: 5px auto;" width="100%" src="figure_images\dbuddy.png" alt="mydbuddy chatbot">
 
 <h3><strong> An AI Chatbot System for Tech Support in the MyDCampus Website of
 De La Salle Lipa using Expert System and Natural Language
@@ -30,7 +30,7 @@ Source: <a href="Research Papers\Chatbot_Thesis_Manuscript.pdf"> Chatbot_Thesis_
 
 These are research papers that I have led in my two years of Senior High School as the team lead of logistics and research committees. The papers focuses on the CAPSTONE project that we have performed on local waste management.
 
-<br/>
+<img style="padding: 5px; margin: 5px auto;" width="100%" src="figure_images\layered_decomposer.png" alt="layered decomposer">
 
 <h3><strong> Waste Management System of the Residents of Brgy. Mojon-Tampoy: An Analysis </strong></h3>
 
