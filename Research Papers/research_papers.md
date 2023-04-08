@@ -27,7 +27,7 @@ Project Members:
 Rule-based AI Chatbot that emphasizes on improving online help support in the MyDCampus site. The system development process followed an agile
 methodology, in which development was performed in iterations and divided into three (3) sprints representing the main functionalities of the system. The design of the chatbot referenced the user needs according to the requirements analysis, incorporating appropriate HCI principles and accessibility features. The chatbot was developed through the use of the Botpress framework to implement rule-based and Natural Language Processing algorithms, such as Intent Classification, Slot Identification, and Entity Extraction. As part of the implementation plan, user acceptance testing was conducted with 25 DLSL-affiliated respondents. Results of the UAT concluded with a“STRONGLY AGREE” rating for the chatbot evaluation, “AGREE” rating on the positive user satisfaction evaluation, and “DISAGREE” rating on the negative user satisfaction evaluation. All software test cases for the chatbot systems were successfully passed. The study recommends the chatbot UAT to be expanded in respondent size, improve the system’s NLP capabilities, and extend accessibility features and data analytics through dashboard.
 
-Source: <a href="Chatbot_Thesis_Manuscript.pdf"> Chatbot_Thesis_Manuscript </a>
+Source: <a href="Chatbot_Thesis_Manuscript.pdf"> Chatbot_Thesis_Manuscript </a> | <a href="https://github.com/pangilinan-patrick/MyDBuddy-Channel-Web"> Project Repository </a>
 
 <br/>
 
