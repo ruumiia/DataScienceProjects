@@ -47,6 +47,6 @@ A repository of my data analysis / data science projects, alongside quantitative
 <h2>Research Papers</h2>
 <nav>
 <ul>
-  <li><a href="Research Papers\research_papers.md"> Documentation / Descriptions </a></li>
+  <li><a href="Research Papers\research_papers.md"> Documentation </a></li>
 </ul>
 </nav>
