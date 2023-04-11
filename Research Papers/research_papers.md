@@ -14,6 +14,8 @@ This is the manuscript paper made detailing the development process and the resu
 De La Salle Lipa using Expert System and Natural Language
 Processing Techniques” </strong> </h3>
 
+<p><strong>(2022-2023)</strong></p>
+
 <strong>Project Members:</strong>
 <ul>
   <li><a href="https://github.com/zrta2480">zrta2480</a> - Database Management, Custom Action Developer </li>
@@ -39,6 +41,8 @@ These are research papers that I have led in my two years of Senior High School 
 
 <h3><strong> Waste Management System of the Residents of Brgy. Mojon-Tampoy: An Analysis </strong></h3>
 
+<p><strong>(2017-2018)</strong></p>
+
 <h3> Abstract </h3>
 
 >The thesis focuses the system of waste management of the residents of Brgy. Mojon-Tampoy and the practices they perform regarding the topic. As a case study, the research explores the in-depth aspects that define the issue of the barangay. In the theoretical part, the idea of Responsible Environmental Behavior is described. Previous studies are discussed and showed different findings on variables affecting waste management. The research used interviews and observations as ways of gathering information on waste management and practices. A total of ten households from Brgy. Mojon-Tampoy were interviewed. Data from the respondents are directly transcribed without alteration although some unclear parts were given an educated guess. The last part clarifies the implementation of environmental programmes and projects focusing on helping the residents on the waste issue. This thesis is not aimed at people who does not have permanent residence at the barangay for they don’t have a fixed effect at the waste management issue. This thesis is created in correspondence of what the researchers observed in the barangay that was needed to be addressed, which is aiming for the improvement and development of the waste management system of the residents of Brgy. Mojon-Tampoy.
@@ -51,6 +55,8 @@ Source: <a href="1_Waste_Management_Analysis.pdf"> 1_Waste_Management_Analysis <
 
 <h3><strong> Perceptions of the SHS Community of De La Salle Lipa on the Level of Influence of CAPSTONE project, “Layered Decomposer”, to the Waste Management Attitudes of Brgy. Mojon-Tampoy Residents </strong></h3>
 
+<p><strong>(2018-2019)</strong></p>
+
 <h3> Abstract </h3>
 
 >This study assessed the possible influences of the CAPSTONE project of S12-18, namely “CO2-N: Compost to Optimize through the Nexus Way”, and its innovation, the Layered Decomposer, towards the Waste Management Attitudes of Brgy. Mojon-Tampoy Residents. The data regarding the influences comes from the perceptions of teachers and students in the Senior High School Community of De La Salle Lipa who are deeply and directly related to the CAPSTONE Initiatives in the Senior High School Curriculum. The aspects of knowledge, satisfaction, and socioeconomic factors in relation to the product are assessed to find its relationship towards the residents’ attitudes. Demographic profiles of gender and the subjects taught and preferred are included for assessment. It employed a descriptive survey research using questionnaire-checklists as data gathering instruments. Respondents are 30 selected SHS community members, a mix of teachers and students, from the STEM, ABM, and HUMMS strands, comprising the population of the study. The researchers were the key informants in orienting the selected respondents regarding the background of the project, its purpose, use, and advantages for its utility. The study revealed correlation stats between the demographics of gender and subjects, the knowledge, satisfaction, and socioeconomical aspects of influence, and the attitudes of residents towards waste management. The study also revealed any significance among the variables presented. Finally, the conclusions presented has significant implications for the Layer Decomposer’s development. Recommendations to improve the project’s influence for increased positive community attitudes are suggested accordingly to the results.
@@ -62,6 +68,8 @@ Source: <a href="2_Perceptions_SHS_CAPSTONE.pdf"> 2_Perceptions_SHS_CAPSTONE </a
 <br/>
 
 <h3><strong> An Innovative Composting Optimization Through the Nexus Way: A Mixed-Method Approach </strong></h3>
+
+<p><strong>(2018-2019)</strong></p>
 
 <h3> Abstract </h3>
 
@@ -78,6 +86,8 @@ This section presents minor researches performed to accomplish academic requirem
 <img style="padding: 5px; margin: 5px auto;" width="100%" src="figure_images\AI_college_tools.png" alt="AI college learning">
 
 <h3><strong>A quantitative study exploring DLSL college students’ overall online learning experience and their perceptions on different AI-applied learning services for quarantined education</strong></h3>
+
+<p><strong>(2022)</strong></p>
 
 <h3> Abstract </h3>
 
@@ -96,6 +106,8 @@ Source: <a href="AI_College_Perceptions_Research.pdf"> AI_College_Perceptions_Re
 <h3><strong> A Mixed-method Recommendation Study:
 Wearable IoT based COVID-19 Device to Monitor
 the Condition of Nonhospitalized and Remotely Quarantined Patients </strong></h3>
+
+<p><strong>(2022)</strong></p>
 
 <h3> Description </h3>
 
