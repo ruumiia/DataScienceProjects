@@ -18,7 +18,7 @@ A repository of my data analysis / data science projects, alongside quantitative
 <li>Linear Regression 
   <ol>
     <li><a href="Python Data Projects\Machine Learning\Linear Regression\College Student Lifestyle on Grade Performance\college_lifestyle.md">College Student Lifestyle on Grade Performance</a></li>
-    <li>House Prediction</li>
+    <li><a href="Python Data Projects\Machine Learning\Linear Regression\House Prediction\house_prediction.md">House Prediction</a></li>
   </ol>
 </li>
 <li>Deep Learning
