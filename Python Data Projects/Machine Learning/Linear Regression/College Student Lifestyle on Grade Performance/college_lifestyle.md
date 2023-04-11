@@ -135,6 +135,8 @@ The model performance displayed an r-squared score of 0.403, which can be consid
 
 The model also attained mean squared error value of 1.707, which is satisfactory enough in predicting a value such as a student’s grade performance. The following figures below shows the actual vs prediction values using the model.
 
+Slope values for schoolwork time, no. of games, and playtime are 0.22208662, -0.37271045, and 0.0419289, while the intercept value is 91.36377937438614.
+
 <div align="center">
 
 <img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\actual_vs_predicted.png" alt="actual vs predicted values">
@@ -158,10 +160,6 @@ In performing the EDA for the dataset, the following heatmap is formed. From suc
 > In terms of negative correlation, time spent outside and exercising provide the highest values in relation to grade, with a negative moderate correlation of -0.44 with time outside and negative weak correlation of -0.36 with time spent exercising. The two variables are in a positively moderate correlation with each other, with a value of 0.43.
 
 > Playtime, No. of games, Meals, and social media have very weak correlation towards grades but have some fairly weak to moderate correlation to device use time, schoolwork time, outside time, and exercise time, causing an indirect relationship with grades.
-
-> Forward selection method in variable selection for the ML model resulted in selection of schoolwork time, no. of games, and playtime as the chosen regressor variables. This results to an r-squared score of 0.403 and a mean squared error value of 1.707. An r-squared value of 50% or less is usually the result of a studies attempting to predict human behavior. 
-
-> Slope values for schoolwork time, no. of games, and playtime are 0.22208662, -0.37271045, and 0.0419289, while the intercept value is 91.36377937438614.
 
 The community questions were also addressed with the findings from the EDA, which are the following:
 
