@@ -49,13 +49,25 @@ Source: <a href="1_Waste_Management_Analysis.pdf"> 1_Waste_Management_Analysis <
 
 <br/>
 
+<h3><strong> Perceptions of the SHS Community of De La Salle Lipa on the Level of Influence of CAPSTONE project, “Layered Decomposer”, to the Waste Management Attitudes of Brgy. Mojon-Tampoy Residents </strong></h3>
+
+<h3> Abstract </h3>
+
+>This study assessed the possible influences of the CAPSTONE project of S12-18, namely “CO2-N: Compost to Optimize through the Nexus Way”, and its innovation, the Layered Decomposer, towards the Waste Management Attitudes of Brgy. Mojon-Tampoy Residents. The data regarding the influences comes from the perceptions of teachers and students in the Senior High School Community of De La Salle Lipa who are deeply and directly related to the CAPSTONE Initiatives in the Senior High School Curriculum. The aspects of knowledge, satisfaction, and socioeconomic factors in relation to the product are assessed to find its relationship towards the residents’ attitudes. Demographic profiles of gender and the subjects taught and preferred are included for assessment. It employed a descriptive survey research using questionnaire-checklists as data gathering instruments. Respondents are 30 selected SHS community members, a mix of teachers and students, from the STEM, ABM, and HUMMS strands, comprising the population of the study. The researchers were the key informants in orienting the selected respondents regarding the background of the project, its purpose, use, and advantages for its utility. The study revealed correlation stats between the demographics of gender and subjects, the knowledge, satisfaction, and socioeconomical aspects of influence, and the attitudes of residents towards waste management. The study also revealed any significance among the variables presented. Finally, the conclusions presented has significant implications for the Layer Decomposer’s development. Recommendations to improve the project’s influence for increased positive community attitudes are suggested accordingly to the results.
+
+Source: <a href="2_Perceptions_SHS_CAPSTONE.pdf"> 2_Perceptions_SHS_CAPSTONE </a>
+
+<hr>
+
+<br/>
+
 <h3><strong> An Innovative Composting Optimization Through the Nexus Way: A Mixed-Method Approach </strong></h3>
 
 <h3> Abstract </h3>
 
 >This study evaluates the modernization of composting as a strategic technology for agricultural activities done in Brgy. Mojon-Tampoy, San Jose, Batangas by Project CO2N: Compost to Optimize through the Nexus Way; a project under the CAPSTONE Initiatives that features a product called the Layered Decomposer. By utilizing a mixed-method approach with a convergent parallel design, the overall success of the project was evaluated based on product quality and functionality, community impact and effectiveness, and user satisfaction. The descriptive statements provided through focus group discussions were coded and analyzed to reveal a positive feedback on all aspects of the project. The quantifiable statistics from administered survey questionnaires resulted in positive correlations in terms of all established criteria. Conclusively, the assessment garnered highly positive results suggesting that the project is overall successful.
 
-Source: <a href="2_InnovativeNexusWay_IMRAD.pdf"> 2_InnovativeNexusWay_IMRAD </a>
+Source: <a href="3_InnovativeNexusWay_IMRAD.pdf"> 3_InnovativeNexusWay_IMRAD </a>
 
 <br/>
 
