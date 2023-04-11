@@ -23,7 +23,7 @@ A repository of my data analysis / data science projects, alongside quantitative
 </li>
 <li>Deep Learning
   <ol>
-    <li>Basic Neural Network</li>
+    <li><a href="Python Data Projects\Machine Learning\Deep Learning\Basic Neural Network\basic_network.py">Basic Neural Network </a></li>
     <li>Binary Classification
       <ul>
         <li>Haberman's Survival Dataset</li>

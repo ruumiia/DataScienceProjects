@@ -1,4 +1,6 @@
 
+# this is just a manual implementation of a basic neural network
+
 import numpy as np # import numpy library
 
 def relu(input): # rectified linear unit
