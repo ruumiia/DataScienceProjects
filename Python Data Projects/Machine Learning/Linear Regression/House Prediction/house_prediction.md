@@ -65,8 +65,11 @@ As distance serves to be a signficant variable related to house prices, age is a
 <h2> Machine Learning Model </h2>
 
 With the following EDA results, it is concluded that in order to predict the house price, the distance, area, and age values should be considered in creating the model. 
-
+<div align="center">
+    
 <img style="padding: 5px; margin: 15px auto;" width="70%" src="figure_images\model_performance.png" alt="model performance">
+
+</div>
 
 Slope values for area, distance, and age respectively are 0.99971163, 0.00562097, and 0.97123501. Meanwhile the intercept value is 0.4004304764197286.
 
