@@ -268,7 +268,7 @@ array([[8, 12],
 
 <h3> <strong>Prediction</strong>: </h3>
 
-<div align="center>
+<div align="center">
 
 <img style="padding: 5px; margin: 5px auto;" width="90%" src="figure_images\prediction.png" alt="predictions">
 
