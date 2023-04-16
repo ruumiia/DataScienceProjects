@@ -26,7 +26,7 @@ A repository of my data analysis / data science projects, alongside quantitative
     <li><a href="Python Data Projects\Machine Learning\Deep Learning\Basic Neural Network\basic_network.py">Basic Neural Network </a></li>
     <li>Binary Classification
       <ul>
-        <li>Haberman's Survival Dataset</li>
+        <li><a href="Python Data Projects\Machine Learning\Deep Learning\Binary Classification\Haberman's Survival Dataset\haberman_survival.md">Haberman's Survival Dataset</a></li>
         <li>Tech Specifications for Office or Gaming Use</li>
       </ul>
     </li>
