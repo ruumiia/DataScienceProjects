@@ -133,7 +133,7 @@ For the variable analysis, each of the independent variables of **age, year, and
 </div>
 
 > In the analysis between the **patient's year of operation and survival status**, the data is analyzed in terms of 4 year groups and each year separately.
-*   The **year group** with the most patients who survived for 5 years or longer is** 1958-1960** with **66 patients**, while the lowest one is **1967-1969** with **38 patients**. For patients who only survived within 5 years, the highest count is during **1964-1966** with **27 patients** while the lowest count is with **1967-1969** with **11 patients**. In general, the frequency result displays that a good majority of patients during these years were able to survive for 5 years or longer.
+*   The **year group** with the most patients who survived for 5 years or longer is **1958-1960** with **66 patients**, while the lowest one is **1967-1969** with **38 patients**. For patients who only survived within 5 years, the highest count is during **1964-1966** with **27 patients** while the lowest count is with **1967-1969** with **11 patients**. In general, the frequency result displays that a good majority of patients during these years were able to survive for 5 years or longer.
 
 <div align="center">
 
@@ -169,7 +169,7 @@ For the variable analysis, each of the independent variables of **age, year, and
 </div>
 
 *   Analyzing **the axillary nodes separately**, the top 3 for patients who only survived within 5 years are **0 nodes** found with **19 patients**, **1 node** found with **8 patients**, and **3 nodes** found with **7 patients**. Meanwhile, the top 3 for patients who survived for 5 years or longer starts with a significant amount of **117 patients** with **0 nodes** detected, followed by **33 patients** with **1 node** detected, and then by **15 patients** with **2 nodes** detected. 
-> Analyzing the dataset, it could be seen that having 0 to a few number of axillary nodes is the common occurrance for breast cancer surgery patients. It could also be pointed out that patients who have a node count between 0-4 may have a higher survival rate, however due to the rarity of patients getting a much higher axillary node count, it is not easily identifiable on how significant the difference is due to data imbalance. \
+> Analyzing the dataset, it could be seen that having 0 to a few number of axillary nodes is the common occurrance for breast cancer surgery patients. It could also be pointed out that patients who have a node count between 0-4 may have a higher survival rate, however due to the rarity of patients getting a much higher axillary node count, it is not easily identifiable on how significant the difference is due to data imbalance.
 
 <h3> Age and # of Axillary Nodes </h3>
 
@@ -195,7 +195,7 @@ For the variable analysis, each of the independent variables of **age, year, and
 
 </div>
 
-> In terms of the **correlation heatmap/scatterplot** visualization of the dataset, only one relationship has some degree of correlation between each other. This is between the patient's **survival status **and **number of positive axillary nodes detected**, with a **weak negative correlation** value of **-0.29**. This being the only significant result may be due to the imbalance in the dataset involving age and year, which makes it more difficult to make a correlation with the survival status variable.
+> In terms of the **correlation heatmap/scatterplot** visualization of the dataset, only one relationship has some degree of correlation between each other. This is between the patient's **survival status** and **number of positive axillary nodes detected**, with a **weak negative correlation** value of **-0.29**. This being the only significant result may be due to the imbalance in the dataset involving age and year, which makes it more difficult to make a correlation with the survival status variable.
 
 <h2> Conclusion </h2>
 
@@ -208,3 +208,72 @@ From the following analysis and interpretation results, the following could be c
 *   There is a weak inverse relationship between the patient's survival status and the number of positive axillary nodes detected. Therefore the higher the positive nodes detected from the patient, the lower their chances of surviving for 5 years or longer after the surgery.
 *   The dataset is not able to accurately represent correlations between variables for the most part due to dataset imbalances.
 
+<h2> Deep Learning Model </h2>
+
+<h3> <strong>Train_test_split</strong> details: </h3>
+
+| Random State | Test size | Shuffle |
+|--------------|-----------|---------|
+| 10           | 0.3       | True    |
+
+<h3> <strong>Layers</strong>: </h3>
+
+| Layers         | No. of Nodes | Activation |
+|----------------|--------------|------------|
+| Hidden Layer 1 | 100          | relu       |
+| Hidden Layer 2 | 79           | relu       |
+| Output Layer   | 1            | sigmoid    |
+
+<h3> <strong>Compile and Fit</strong> details: </h3>
+
+| Loss                | Optimizer | Metrics      | Validation split | Epochs | Batch size |
+|---------------------|-----------|--------------|------------------|--------|------------|
+| Binary_crossentropy | adam      | ['accuracy'] | 0.40             | 100    | 30         |
+
+<h3> <strong>Results from Fitting</strong>: </h3>
+
+Final Epoch:
+
+Epoch 100/100
+
+5/5 [==============================] - 0s 11ms/step - loss: 0.4920 - accuracy: 0.7891 - val_loss: 0.6392 - val_accuracy: 0.6860
+
+<h3> <strong>Model Evaluation Result</strong>: </h3>
+
+From evaluating testing data:
+
+3/3 [==============================] - 0s 3ms/step - loss: 0.5586 - accuracy: 0.7717
+
+[0.5586131811141968, 0.77173912525177]
+
+From evaluating training data:
+
+7/7 [==============================] - 0s 2ms/step - loss: 0.5328 - accuracy: 0.7523
+
+[0.5328477025032043, 0.7523364424705505]
+
+<h3> <strong>Loss Graph</strong>: </h3>
+
+<div align="center">
+
+<img style="padding: 5px; margin: 5px auto;" width="80%" src="figure_images\loss_graph.png" alt="loss graph">
+
+</div>
+
+<h3> <strong>Confusion Matrix</strong> Result: </h3>
+
+array([[8, 12],
+       [9, 63]], dtype=int64)
+
+
+<h3> <strong>Prediction</strong>: </h3>
+
+<div align="center>
+
+<img style="padding: 5px; margin: 5px auto;" width="90%" src="figure_images\prediction.png" alt="predictions">
+
+</div>
+
+<nav>
+<p><a href="https://github.com/vergaraac/Data-Portfolio">Return to Main Page / Table of Contents</a></p>
+</nav>
