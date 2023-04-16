@@ -55,9 +55,9 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 <div align="center">
 
-<img style="padding: 5px; margin: 5px auto;" width="80%" src="figure_images\age_chart.png" alt="age chart">
+<img style="padding: 5px; margin: 5px auto;" width="60%" src="figure_images\age_chart.png" alt="age chart">
 
-<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\age_table.png" alt="age table">
+<img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\age_table.png" alt="age table">
 
 </div>
 
@@ -65,9 +65,9 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 <div align="center">
 
-<img style="padding: 5px; margin: 5px auto;" width="80%" src="figure_images\year_chart.png" alt="year chart">
+<img style="padding: 5px; margin: 5px auto;" width="60%" src="figure_images\year_chart.png" alt="year chart">
 
-<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\year_table.png" alt="year table">
+<img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\year_table.png" alt="year table">
 
 </div>
 
@@ -75,9 +75,9 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 <div align="center">
 
-<img style="padding: 5px; margin: 5px auto;" width="80%" src="figure_images\axillary_chart.png" alt="axillary chart">
+<img style="padding: 5px; margin: 5px auto;" width="60%" src="figure_images\axillary_chart.png" alt="axillary chart">
 
-<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\axillary_table.png" alt="axillary table">
+<img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\axillary_table.png" alt="axillary table">
 
 </div>
 
@@ -85,9 +85,9 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 <div align="center">
 
-<img style="padding: 5px; margin: 5px auto;" width="80%" src="figure_images\status_chart.png" alt="status chart">
+<img style="padding: 5px; margin: 5px auto;" width="60%" src="figure_images\status_chart.png" alt="status chart">
 
-<img style="padding: 5px; margin: 5px auto;" width="50%" src="figure_images\status_table.png" alt="status table">
+<img style="padding: 5px; margin: 5px auto;" width="30%" src="figure_images\status_table.png" alt="status table">
 
 </div>
 
