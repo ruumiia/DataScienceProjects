@@ -27,7 +27,7 @@ A repository of my data analysis / data science projects, alongside quantitative
     <li>Binary Classification
       <ul>
         <li><a href="Python Data Projects\Machine Learning\Deep Learning\Binary Classification\Haberman's Survival Dataset\haberman_survival.md">Haberman's Survival Dataset</a></li>
-        <li>Tech Specifications for Office or Gaming Use</li>
+        <li><a href="Python Data Projects\Machine Learning\Deep Learning\Binary Classification\Tech Specifications for Office or Gaming Use\tech_spec.md"> Tech Specifications for Office or Gaming Use</a></li>
       </ul>
     </li>
   </ol>
