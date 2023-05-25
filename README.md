@@ -30,6 +30,16 @@ A repository of my data analysis / data science projects, alongside quantitative
         <li>Tech Specifications for Office or Gaming Use</li>
       </ul>
     </li>
+    <li>Multi Classification CNN
+      <ul>
+        <li> Convolutional Neural Network to Alleviate Waste Management Concerns in Lipa City </li>
+      </ul>
+    </li>
+  </ol>
+</li>
+<li>Computer Vision & CNN
+  <ol>
+    <li>COVERT: A Private Facial Recognition and Gender Classification System</li>
   </ol>
 </li>
 </ul>
